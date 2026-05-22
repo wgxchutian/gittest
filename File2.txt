@@ -1,4 +1,8 @@
 File2Value
+<<<<<<< NewBranch
 Main add data
 
 Branch2.0.0.1
+=======
+master: Main add data
+>>>>>>> master
